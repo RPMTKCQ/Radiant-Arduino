@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'theme/app_theme.dart';
 import 'screens/home/home_screen.dart';
 import 'screens/map/map_screen.dart';
